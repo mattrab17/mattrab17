@@ -6,5 +6,6 @@
 - 📌 By August 2026, I want to launch my first website complete with front end and backend features. 
 <!-- 🤔 I’m looking for help with ... -->
 <!--- 💬 Ask me about ... -->
-- 💬 If you want to email me about coins, language learning, programming, or any other general inquiries, please feel free to reach out to me at: mattdev209@gmail.com
+
+- 💬 If you want to email me about coins, language learning, programming, project collaboration, or any other general inquiries, please feel free to reach out at: mattdev209@gmail.com
 
